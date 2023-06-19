@@ -5,6 +5,12 @@ A website containing a quiz to test knowledge learnt throughout the course. This
 
 ### Screenshot of deployed website located:
 
+Located in assets/images/Screenshot-of-deployed-application.png
+
 ### Link to deployed application:
 
+https://soundest.github.io/Code-Quiz/ 
+
 ### Link to Github Repository: 
+
+https://github.com/Soundest/Code-Quiz 
